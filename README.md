@@ -1,2 +1,2 @@
 # jenkins
-This for jenkins and git integration
+This is for jenkins and git integration
